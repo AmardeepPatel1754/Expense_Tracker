@@ -18,8 +18,5 @@ To run the Expense Tracker locally, follow these steps:
 2. Navigate to the project directory:
   cd expense-tracker
 
-3. Install dependencies:
-   npm install
-
 4. Start the application:
    npm start
